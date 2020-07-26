@@ -1,0 +1,32 @@
+.task {
+    color:blue;
+}
+.parent {
+  text-align: center;
+  width: 100%;
+}
+.parent > ul {
+  display: inline-block;
+}
+.container{
+  max-width:750px;
+  height: auto;
+  border: 4px solid #000000;
+  position: relative;
+  background: #ffffff;
+  padding: 10px;
+  box-sizing: border-box;
+  padding-bottom: 50px;
+} 
+body{
+  
+  background:fixed #ffc728;
+  color: #000308;
+  background-size: fixed;
+  padding: 280px;
+}
+.Headline{
+  text-align: center;
+  padding: 80px;
+  background-color: chocolate;
+}
