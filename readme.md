@@ -18,3 +18,4 @@ add service using `ng generate services service-name`
 
 And open http://localhost:4200/ in browser 
  
+<img src="Output.png">
